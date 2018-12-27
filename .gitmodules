@@ -10,6 +10,14 @@
   path = pack/plugins/opt/vim-colors-solarized
   url = https://github.com/altercation/vim-colors-solarized.git
 
+[submodule "vim-rails"]
+  path = pack/plugins/opt/vim-rails
+  url = git@github.com:tpope/vim-rails.git
+
+[submodule "vim-ruby"]
+  path = pack/plugins/opt/vim-ruby
+  url = git@github.com:vim-ruby/vim-ruby.git
+
 [submodule "ack.vim"]
   path = pack/plugins/start/ack.vim
   url = https://github.com/mileszs/ack.vim.git
