@@ -10,6 +10,14 @@
   path = pack/plugins/opt/vim-colors-solarized
   url = https://github.com/altercation/vim-colors-solarized.git
 
+[submodule "vim-javascript"]
+  path = pack/plugins/opt/vim-javascript
+  url = git@github.com:pangloss/vim-javascript.git
+
+[submodule "vim-jsx"]
+  path = pack/plugins/opt/vim-jsx
+  url = git@github.com:mxw/vim-jsx.git
+
 [submodule "vim-rails"]
   path = pack/plugins/opt/vim-rails
   url = git@github.com:tpope/vim-rails.git
@@ -41,6 +49,10 @@
 [submodule "vim-airline"]
   path = pack/plugins/start/vim-airline
   url = https://github.com/vim-airline/vim-airline.git
+
+[submodule "vim-fugitive"]
+  path = pack/plugins/start/vim-fugitive
+  url = https://github.com/tpope/vim-fugitive.git
 
 [submodule "vim-endwise"]
   path = pack/plugins/start/vim-endwise
