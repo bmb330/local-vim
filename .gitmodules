@@ -1,0 +1,47 @@
+[submodule "vim-airline-themes"]
+  path = pack/plugins/opt/vim-airline-themes
+  url = https://github.com/vim-airline/vim-airline-themes.git
+
+[submodule "vim-code-dark"]
+  path = pack/plugins/opt/vim-code-dark
+  url = https://github.com/tomasiser/vim-code-dark.git
+
+[submodule "vim-colors-solarized"]
+  path = pack/plugins/opt/vim-colors-solarized
+  url = https://github.com/altercation/vim-colors-solarized.git
+
+[submodule "ack.vim"]
+  path = pack/plugins/start/ack.vim
+  url = https://github.com/mileszs/ack.vim.git
+
+[submodule "ale"]
+  path = pack/plugins/start/ale
+  url = https://github.com/w0rp/ale.git
+
+[submodule "auto-pairs"]
+  path = pack/plugins/start/auto-pairs
+  url = git://github.com/jiangmiao/auto-pairs.git
+
+[submodule "emmet-vim"]
+  path = pack/plugins/start/emmet-vim
+  url = https://github.com/mattn/emmet-vim.git
+
+[submodule "gundo.vim"]
+  path = pack/plugins/start/gundo.vim
+  url = https://github.com/sjl/gundo.vim.git
+
+[submodule "vim-airline"]
+  path = pack/plugins/start/vim-airline
+  url = https://github.com/vim-airline/vim-airline.git
+
+[submodule "vim-endwise"]
+  path = pack/plugins/start/vim-endwise
+  url = git://github.com/tpope/vim-endwise.git
+
+[submodule "vim-gitgutter"]
+  path = pack/plugins/start/vim-gitgutter
+  url = https://github.com/airblade/vim-gitgutter.git
+
+[submodule "vim-ragtag"]
+  path = pack/plugins/start/vim-ragtag
+  url = https://github.com/tpope/vim-ragtag.git
