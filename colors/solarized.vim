@@ -1,0 +1,1 @@
+../pack/plugins/opt/vim-colors-solarized/colors/solarized.vim
