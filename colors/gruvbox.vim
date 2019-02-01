@@ -1,0 +1,1 @@
+../pack/plugins/opt/gruvbox/colors/gruvbox.vim
